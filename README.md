@@ -1,9 +1,8 @@
 # 👋 Hola, soy José Adolfo Mayhua Palomino
 
-### 💻 Software Developer | Backend & Full Stack | Mobile Development
+### 💻 Software Developer | Backend & Full Stack | 
 
-Soy desarrollador de software enfocado en la construcción de aplicaciones web, APIs y aplicaciones móviles.
-
+Soy desarrollador de software enfocado en la construcción de aplicaciones web y APIs.
 Me interesa especialmente el desarrollo backend, integración de servicios, gestión de bases de datos y desarrollo de soluciones orientadas a resolver problemas reales.
 
 ---
@@ -13,7 +12,6 @@ Me interesa especialmente el desarrollo backend, integración de servicios, gest
 - 🎓 Ingeniería de Sistemas
 - 🇵🇪 Perú
 - 💻 Desarrollo Web y Backend
-- 📱 Desarrollo de aplicaciones móviles
 - 🗄️ Diseño y gestión de bases de datos
 - 🔌 Desarrollo e integración de APIs REST
 - 🐳 Experiencia trabajando con Docker
@@ -33,9 +31,6 @@ Me interesa especialmente el desarrollo backend, integración de servicios, gest
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Mobile
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ### Bases de datos
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
