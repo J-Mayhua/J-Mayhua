@@ -86,7 +86,6 @@ Estoy interesado en oportunidades profesionales relacionadas con:
 - 💻 Software Development
 - 🔙 Backend Development
 - 🌐 Full Stack Development
-- 📱 Mobile Development
 - 🔌 API Development
 
 ---
