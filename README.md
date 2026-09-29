@@ -55,20 +55,21 @@ Me interesa especialmente el desarrollo backend, la integración de servicios, l
 
 ## 📌 Proyectos destacados
 
+### 🏥 Sistema de Gestión Clínica
+Aplicación web orientada a la gestión de pacientes, citas médicas, personal e historial clínico.
+**Tecnologías:** PHP, MySQL, HTML5, CSS3, JavaScript.
+🔗 [Ver proyecto](https://github.com/J-Mayhua/sistema-gestion-clinica) 🌐 [Demo en vivo](https://sistema-gestion-clinica-henna.vercel.app/)
+
+### 🛍️ Sistema de Gestión de Tienda de Ropa
+Aplicación para gestionar catálogo de productos, ventas, comprobantes e inventario.
+**Tecnologías:** PHP, MySQL, HTML5, CSS3, JavaScript, Bootstrap.
+🔗 [Ver proyecto](https://github.com/J-Mayhua/tienda_ropa) 🌐 [Demo en vivo](https://tienda-ropa-three-topaz.vercel.app/)
+
 ### 🏛️ Plan de Gobierno Distrital de Paucará 2027-2030
 Sitio web que presenta los ejes de trabajo, programas, metas, cronograma, prioridades y documentos de un plan de gobierno distrital, con navegación por secciones y fichas detalladas por programa.
 **Tecnologías:** React 19, TypeScript, Vite, Tailwind CSS, React Router.
 🔗 [Ver proyecto](https://github.com/J-Mayhua/Plan_de_gobierno_distrital) · 🌐 [Demo en vivo](https://plan-de-gobierno-nine.vercel.app/)
 
-### 🏥 Sistema de Gestión Clínica
-Aplicación web orientada a la gestión de pacientes, citas médicas, personal e historial clínico.
-**Tecnologías:** PHP, MySQL, HTML5, CSS3, JavaScript.
-🔗 [Ver proyecto](https://github.com/J-Mayhua/sistema-gestion-clinica)
-
-### 🛍️ Sistema de Gestión de Tienda de Ropa
-Aplicación para gestionar catálogo de productos, ventas, comprobantes e inventario.
-**Tecnologías:** PHP, MySQL, HTML5, CSS3, JavaScript, Bootstrap.
-🔗 [Ver proyecto](https://github.com/J-Mayhua/tienda_ropa)
 
 ### 👮 Sistema Policial de Gestión de Incidencias
 Gestión y seguimiento de incidencias delictivas: registro, asignación de casos, geolocalización, carga de evidencias y reportes en PDF.
